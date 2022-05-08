@@ -1,0 +1,5 @@
+project: handlebars-rust
+target: render_template_no_data
+
+cmds:
+  - cmd: /render_template_no_data
